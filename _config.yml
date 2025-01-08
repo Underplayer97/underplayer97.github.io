@@ -1,0 +1,6 @@
+title: Your awesome title
+source: ./public
+sass:
+  style: compressed
+exclude: []
+
